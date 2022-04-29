@@ -1,0 +1,22 @@
+{
+  "name": "stackstep",
+  "version": "1.0.0",
+  "description": "\"Excellent Reward for Coding\" ERC20 token",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --timeout 100000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OceanT-shirt/StackStep.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OceanT-shirt/StackStep/issues"
+  },
+  "homepage": "https://github.com/OceanT-shirt/StackStep#readme"
+}
